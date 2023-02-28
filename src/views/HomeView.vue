@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h2>Home</h2>
-    <img alt="Vue logo" src="../assets/logo.png">
+    <img alt="Vue logo" src="../assets/img/SocialNet.svg">
   </div>
 </template>
 
